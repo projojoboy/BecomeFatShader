@@ -14,8 +14,8 @@ I choose for Unity because I use unity the most and I really want to know more a
 ## Planning 
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
-| Research and planning |  | Coding the Game | --- | --- | --- |
-|Week 1 |
+| --- | --- | --- | --- | --- | --- |
+|Week 1 | Research and Planning | Coding this Project
 |Week 2 |
 
 ## Sources
